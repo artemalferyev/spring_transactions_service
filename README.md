@@ -57,13 +57,6 @@ Error Handling
 
 This service incorporates basic error handling. For scenarios like missing account IDs or insufficient funds for a transfer, a corresponding error message will be provided.
 
-Future Improvements
-
-Transition to a persistent database from the current in-memory hashmap.
-Enhanced error messages complemented by HTTP status codes.
-Expansion of the API to offer additional features such as account creation.
-Contributions
-
 Contributions are always welcome! Simply fork this project and submit your enhancements through a pull request.
 
 License
